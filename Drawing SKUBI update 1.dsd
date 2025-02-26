@@ -1,0 +1,85 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Power Supply Layout]
+DWG=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\Power Supply Layout.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\Power Supply Layout.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E002_v2]
+DWG=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E002_v2.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E002_v2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E003]
+DWG=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E003.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E003.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E004]
+DWG=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E004.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E004.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E005]
+DWG=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E005.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\E005.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=D:\Eksintek\Pneumatik SKUBI Sby\Drawing SKUBI update 1.pdf
+OUT=C:\Users\Asus\Documents\
+PWD=
+[AcePublish]
+IncludeBookmarks=TRUE
+IncludeHyperlinks=TRUE
+ZoomFactor=50
+TempFolder=C:\Users\Asus\AppData\Local\Temp\AcePub_177522\
+OriginWdpPath=D:\Eksintek\Pneumatik SKUBI Sby\Learn Autocad Electrical Udemy\Learn Autocad Electrical Udemy.wdp
+OriginMdbPath=C:\Users\Asus\AppData\Roaming\Autodesk\AutoCAD Electrical 2023\R24.2\enu\Support\user\Learn Autocad Electrical Udemy.mdb
+TempWdpPath=C:\Users\Asus\AppData\Local\Temp\AcePub_177522\Learn Autocad Electrical Udemy.wdp
+TempMdbPath=C:\Users\Asus\AppData\Local\Temp\AcePub_177522\Learn Autocad Electrical Udemy.mdb
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADE>>
+CategoryName=
+LogFilePath=
+IncludeLayer=FALSE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
